@@ -1,5 +1,5 @@
 # trump-vs-bolso
 Analyzing and comparing USA and BR presidents tweets
 
-http://www.trumptwitterarchive.com/archive
-https://app.workbenchdata.com/workflows/7924/, from https://aosfatos.org/tweets-de-bolso/index.html
+**Tweets from trump extracted from: http://www.trumptwitterarchive.com/archive**
+**Tweets from bolsonaro extracted from: https://aosfatos.org/tweets-de-bolso/index.html**
